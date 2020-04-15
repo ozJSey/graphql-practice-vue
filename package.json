@@ -18,9 +18,13 @@
     "graphql": "^0.13.2",
     "jsonwebtoken": "^8.3.0",
     "md5": "^2.2.1",
+<<<<<<< HEAD
     "mongoose": "^5.2.6",
     "roboto-fontface": "*",
     "vuetify": "^2.2.11"
+=======
+    "mongoose": "^5.7.5"
+>>>>>>> 8d5eb857ddd7b187452e4afc7a0f76e966049e8b
   },
   "devDependencies": {
     "concurrently": "^3.6.0",
